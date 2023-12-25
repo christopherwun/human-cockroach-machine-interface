@@ -1,1 +1,1 @@
-# human-cockroach-machine-interface
+# EEG-enabled Human-Cockroach Machine Interface
